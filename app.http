@@ -1,0 +1,2 @@
+GET http://localhost:6000/directors/36/movies/
+###
